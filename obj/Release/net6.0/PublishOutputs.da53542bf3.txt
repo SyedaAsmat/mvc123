@@ -1,0 +1,7 @@
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.exe
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.deps.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.runtimeconfig.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\RevisionSession\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.pdb
