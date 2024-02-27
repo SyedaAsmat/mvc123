@@ -5,7 +5,7 @@ environment {
 ASPNETCORE_ENVIRONMENT = 'Production'
 DOTNET_CLI_TELEMETRY_OPTOUT = '1'
 }
-tages {
+stages {
 stage('Checkout') {
 steps {
 // Checkout source code from Git
